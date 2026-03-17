@@ -1,7 +1,8 @@
 # Convert Website to App 🚀
 
-Easily convert any website into an installable mobile app.
+Turn any website into a mobile app in seconds 🚀
 
+Easily convert any website into an installable mobile app.
 No coding required — works directly from your browser.
 
 ## Features
@@ -10,6 +11,13 @@ No coding required — works directly from your browser.
 * Works on Android & iOS
 * Fast and lightweight
 * No Play Store needed
+
+## Why use this?
+
+* Create apps instantly
+* Perfect for business, tools, and websites
+* Share your app with a simple link
+* Works on all modern devices
 
 ## Try it now
 
@@ -22,14 +30,3 @@ website to app converter
 install website as app
 pwa generator
 web to app
-
-## Why use this?
-
-* No coding required
-* Works instantly
-* Install apps directly on mobile
-* Perfect for business, tools, and websites
-
-👉 Try now:
-https://apps.dremart.com/
-
